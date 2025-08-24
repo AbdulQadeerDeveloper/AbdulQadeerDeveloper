@@ -41,13 +41,13 @@ I’m passionate about delivering solutions that **enhance user experiences** an
 - Collaborating with cross-functional teams to design and implement features  
 - Writing **clean, reusable, and efficient code** for production  
 
-**Full Stack Engineer – Sefrius Technologies (UK)** *(Dec 2023 – Present)*  
+**Full Stack Engineer – Softrix technologies (UK)** *(Dec 2023 – Present)*  
 - Developed and deployed 10+ MERN stack projects  
 - Designed RESTful APIs and integrated with third-party services  
 - Implemented authentication, database management, and payment gateways  
 - Scaled applications with modular backend & frontend architecture  
 
-**Frontend Web Developer – Ansysoft Solutions** *(Mar 2022 – Apr 2023)*  
+**Frontend Web Developer – Xlogic Solutions** *(Mar 2022 – Apr 2023)*  
 - Built modern responsive web applications  
 - Specialized in **React.js, HTML, CSS, JavaScript**  
 - Improved UI/UX and collaborated on bug fixing  
