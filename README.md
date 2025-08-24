@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Muhammad Qadeer</h1>
-<h3 align="center">Software Engineer |Full Stack Engineer | MERN Stack Expert | ReactJS Specialist</h3>
+<h3 align="center">Software Engineer | Full Stack Engineer | MERN Stack Expert | ReactJS Specialist</h3>
 <p align="center">Crafting scalable web applications with modern technologies and innovative solutions.</p>
 
 <p align="center">
