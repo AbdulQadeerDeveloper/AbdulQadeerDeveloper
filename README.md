@@ -1,6 +1,5 @@
-
 <h1 align="center">👋 Hi, I'm Muhammad Qadeer</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Expert</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Expert | ReactJS Specialist</h3>
 <p align="center">Crafting scalable web applications with modern technologies and innovative solutions.</p>
 
 <p align="center">
@@ -13,7 +12,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="#">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -21,11 +20,16 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate Full Stack Developer with expertise in the **MERN stack** and modern web technologies.  
-Currently working remotely at **Robx.ai**, I specialize in creating **responsive, user-friendly applications** with clean and efficient code.  
+I'm a **Full Stack Engineer** specializing in the **MERN stack (MongoDB, Express, ReactJS, Node.js)**.  
+I’ve successfully developed and deployed 10+ projects, focusing on:  
 
-I enjoy tackling complex challenges and turning ideas into reality through code.  
-Constantly learning new technologies to stay ahead in web development.  
+- RESTful API design & integrations  
+- Authentication & database management  
+- Dynamic UI/UX with scalable backend systems  
+- Payment gateways & third-party service integrations  
+
+Currently, I’m pursuing a **Bachelor’s degree in Computer Software Engineering** at Virtual University of Pakistan.  
+I’m passionate about delivering solutions that enhance user experiences and drive business success.
 
 ---
 
@@ -56,24 +60,38 @@ Constantly learning new technologies to stay ahead in web development.
 
 ## 💼 Work Experience
 
-**Robx.ai** *(Remote · Present)*  
-*Full Stack Developer*  
-- Developing and maintaining web applications using modern technologies  
-- Collaborating with cross-functional teams to design, develop, and ship features  
-- Creating **clean, efficient, and scalable code**
+**Full Stack Engineer – Sefrius Technologies (UK)** *(Dec 2023 – Present)*  
+- Developed and deployed **10+ MERN stack projects**  
+- Built RESTful APIs & integrated with external services  
+- Focused on authentication, scalability, and database management  
+- Implemented payment gateways & third-party integrations  
+
+**Frontend Web Developer – Ansysoft Solutions (Mar 2022 – Apr 2023)**  
+- Developed modern responsive web applications  
+- Specialized in **HTML, CSS, JavaScript, React.js**  
+- Collaborated on UI/UX improvements and bug fixing  
+
+**Software Engineer Learning – Free Online Courses** *(Dec 2021 – Aug 2022)*  
+- Strengthened foundations in web development & software engineering
+
+---
+
+## 📚 Education
+- **BS in Software Engineering** – Virtual University of Pakistan *(2020 – 2021)* | CGPA: 3.15  
 
 ---
 
 ## 🧠 Projects
 
-**IntelliWriter.io** – AI-powered tool suite (image generation, article writing, scholar chat, abstract creation & more)  
-**AI Tools Dashboard** – Generate FAQs, About Us content, product descriptions, academic resources  
-**Screen Tracker** – Windows app: tracks screen time, screenshots, app usage & idle time  
+- **POS Factory Software** – Retail management system with analytics & reporting  
+- **TaskFlow** – MERN-based task management system with JWT authentication  
+- **Men Tattoos Site** – Custom MERN-based website project  
+- **IntelliWriter.io** – AI-powered content generation tool  
+- **Screen Tracker** – Windows productivity monitoring app  
 
 ---
 
-## 📚 Certifications
-
+## 📜 Certifications
 - **Git & GitHub** – Coursera  
 - **Node.js & Express** – FreeCodeCamp  
 - **MongoDB & SQL** – HackerRank  
@@ -96,5 +114,5 @@ Constantly learning new technologies to stay ahead in web development.
   <a href="https://github.com/AbdulQadeerDeveloper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/muhammad-qadeer-62518a214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
