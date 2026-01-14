@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 I'm a **Full Stack Engineer** specializing in the **MERN stack (MongoDB, Express, ReactJS, Node.js)**.  
-I’ve successfully developed and deployed **10+ projects**, focusing on:  
+I’ve successfully developed and deployed ** 50+ projects**, focusing on:  
 
 - **RESTful API design & integrations**  
 - **Authentication & database management**  
@@ -42,7 +42,7 @@ I’m passionate about delivering solutions that **enhance user experiences** an
 - Writing **clean, reusable, and efficient code** for production  
 
 **Full Stack Engineer – Softrix technologies (UK)** *(Dec 2023 – Present)*  
-- Developed and deployed 10+ MERN stack projects  
+- Developed and deployed 50+ MERN stack projects  
 - Designed RESTful APIs and integrated with third-party services  
 - Implemented authentication, database management, and payment gateways  
 - Scaled applications with modular backend & frontend architecture  
