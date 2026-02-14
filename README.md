@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Muhammad Qadeer</h1>
-<h3 align="center">Software Engineer | Full Stack Engineer | MERN Stack Expert | ReactJS Specialist</h3>
+<h3 align="center">Software Engineer | Full Stack Engineer | MERN Stack Expert | ReactJS and NextJS Specialist</h3>
 <p align="center">Crafting scalable web applications with modern technologies and innovative solutions.</p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 I'm a **Full Stack Engineer** specializing in the **MERN stack (MongoDB, Express, ReactJS, Node.js)**.  
-I’ve successfully developed and deployed ** 50+ projects**, focusing on:  
+I’ve successfully developed and deployed 200+ projects, focusing on:  
 
 - **RESTful API design & integrations**  
 - **Authentication & database management**  
