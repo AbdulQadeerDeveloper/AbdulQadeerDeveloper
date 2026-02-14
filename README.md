@@ -42,7 +42,7 @@ I’m passionate about delivering solutions that **enhance user experiences** an
 - Writing **clean, reusable, and efficient code** for production  
 
 **Full Stack Engineer – Softrix technologies (UK)** *(Dec 2023 – Present)*  
-- Developed and deployed 50+ MERN stack projects  
+- Developed and deployed 200+ MERN stack projects  
 - Designed RESTful APIs and integrated with third-party services  
 - Implemented authentication, database management, and payment gateways  
 - Scaled applications with modular backend & frontend architecture  
